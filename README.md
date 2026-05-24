@@ -133,16 +133,6 @@ MMM02 operates in three phases: 30-minute warmup (observation only), one-off cal
 
 ---
 
-## Files to Upload for Coursework Submission
-
-Per the brief, submit:
-1. **`BSE_Coursework.py`** — the only change is the `TraderMMM02` class
-2. **PDF of the research article** — compiled from the LaTeX source
-
-The analysis scripts (`analyse_spy.py`, `ablation.py` etc.) are supplementary and do not need to be submitted.
-
----
-
 ## References
 
 - Cliff, D. (2018). BSE: A Minimal Simulation of a Limit-Order-Book Stock Exchange. EMSS2018.
