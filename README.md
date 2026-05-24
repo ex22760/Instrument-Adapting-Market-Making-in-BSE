@@ -1,7 +1,7 @@
 # Instrument-Adaptive Market Making in BSE
 ### Combining XGBoost Regime Classification with Fractional Kelly Position Sizing
 
-This repository contains the code and analysis scripts for the ACFIM0015 Algorithmic Trading coursework at the University of Bristol. The project develops **MMM02**, an instrument-adaptive market-making algorithm for the Bristol Stock Exchange (BSE) simulator, calibrated specifically to the intraday microstructure of the SPDR S&P 500 ETF (SPY).
+This repository contains the code, report and analysis scripts for the ACFIM0015 Algorithmic Trading coursework at the University of Bristol. The project develops **MMM02**, an instrument-adaptive market-making algorithm for the Bristol Stock Exchange (BSE) simulator, calibrated specifically to the intraday microstructure of the SPDR S&P 500 ETF (SPY).
 
 ---
 
