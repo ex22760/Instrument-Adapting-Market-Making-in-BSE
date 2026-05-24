@@ -36,6 +36,7 @@ MMM01, the benchmark algorithm, uses fixed parameters that ignore the statistica
     ├── spy_analysis_4_arch_volatility.png
     ├── mmm_baseline_equivalence.png
     ├── mmm_comparison.png
+    ├── mmm_comparison_tape.png
     ├── mmm_comparison_test.png
     ├── mmm_ablation.png
     ├── mmm_ablation_results.csv
